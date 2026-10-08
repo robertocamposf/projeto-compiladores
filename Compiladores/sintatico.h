@@ -1,0 +1,16 @@
+void secao_var(void);
+void decl_var(void);
+void lista_comandos(void);
+void bloco(void);
+void comando(void);
+void atribuicao(void);
+void iteracao(void);
+void decisao(void);
+void escrita(void);
+void expressao(void);
+void expr_nivel3(void);
+void expr_nivel2(void);
+void expr_nivel1(void);
+void expr_basica(void);
+void programa(void);
+void erro_sintatico(char *esperado);
